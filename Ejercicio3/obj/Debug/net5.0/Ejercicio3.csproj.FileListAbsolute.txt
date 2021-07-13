@@ -1,0 +1,16 @@
+D:\documentos\c#\Ejercicio3\Ejercicio3\bin\Debug\net5.0\Ejercicio3.exe
+D:\documentos\c#\Ejercicio3\Ejercicio3\bin\Debug\net5.0\Ejercicio3.deps.json
+D:\documentos\c#\Ejercicio3\Ejercicio3\bin\Debug\net5.0\Ejercicio3.runtimeconfig.json
+D:\documentos\c#\Ejercicio3\Ejercicio3\bin\Debug\net5.0\Ejercicio3.runtimeconfig.dev.json
+D:\documentos\c#\Ejercicio3\Ejercicio3\bin\Debug\net5.0\Ejercicio3.dll
+D:\documentos\c#\Ejercicio3\Ejercicio3\bin\Debug\net5.0\ref\Ejercicio3.dll
+D:\documentos\c#\Ejercicio3\Ejercicio3\bin\Debug\net5.0\Ejercicio3.pdb
+D:\documentos\c#\Ejercicio3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.csproj.AssemblyReference.cache
+D:\documentos\c#\Ejercicio3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\documentos\c#\Ejercicio3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.AssemblyInfoInputs.cache
+D:\documentos\c#\Ejercicio3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.AssemblyInfo.cs
+D:\documentos\c#\Ejercicio3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\documentos\c#\Ejercicio3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.dll
+D:\documentos\c#\Ejercicio3\Ejercicio3\obj\Debug\net5.0\ref\Ejercicio3.dll
+D:\documentos\c#\Ejercicio3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.pdb
+D:\documentos\c#\Ejercicio3\Ejercicio3\obj\Debug\net5.0\Ejercicio3.genruntimeconfig.cache
